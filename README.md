@@ -1,1 +1,1 @@
-# Radial-basis-function-Neural-Network
+# Radial-basis-function-Neural-Networks
